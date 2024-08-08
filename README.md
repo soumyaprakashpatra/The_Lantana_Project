@@ -1,4 +1,4 @@
-# Team-2
+# JPMC Team-2 `<Code For Good 2024>`
 
 # The Shola Trust
 
