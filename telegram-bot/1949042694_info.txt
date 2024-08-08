@@ -1,0 +1,3 @@
+Name: Shola
+Location: 
+Image Path: https://api.telegram.org/file/bot7356918287:AAHotN9bWW7H5I8dtE3sXk2t1zDbozX0ofM/photos/file_8.jpg
